@@ -48,4 +48,4 @@ different types of applications of GNNs,
 #### Difference 2 : Isomorphism </br>
 - Graph Data isomorphism is defined by **Graph Structure.** 2 graphs that look different can still be structurally identical.
 - This doesn't work on other data types. ex: if you flip an image, it's not same as the original one, it's different.
-- **But if you flip a graph only thing change is order of the nodes. In this case the algorithms suppose to handle graph data should be permutation invariant**
+- #### **But if you flip a graph only thing change is order of the nodes. In this case the algorithms suppose to handle graph data should be permutation invariant**
