@@ -3,15 +3,16 @@
 ## Introduction
 
 This repository contains a collection of resources about Graph Neural Networks (GNNs). The resources are organized into the following categories:</br>
-####        1. Node Classification</br>
-    2. Link Prediction</br>
-    3. Graph Classification</br>
-    4. Graph Generation</br>
-    5. Graph Clustering (Community Detection)</br>
-    6. Graph Matching</br>
-    7. Graph Embedding</br>
-    8. Graph Visualization</br>
-    9. Graph Sampling</br>
+
+####        1. Node Classification
+            2. Link Prediction</br>
+            3. Graph Classification</br>
+            4. Graph Generation</br>
+            5. Graph Clustering (Community Detection)</br>
+            6. Graph Matching</br>
+            7. Graph Embedding</br>
+            8. Graph Visualization</br>
+            9. Graph Sampling</br>
 
 Also we talk about different types of GNNs,</br>
     1. Graph Convolutional Networks (GCNs)</br>
