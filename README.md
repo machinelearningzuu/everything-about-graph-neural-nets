@@ -1,6 +1,6 @@
 # everything-about-gnns
 
-## Introduction
+## A] Introduction
 
 This repository contains a collection of resources about Graph Neural Networks (GNNs). The resources are organized into the following categories:
 
@@ -38,7 +38,7 @@ different types of applications of GNNs,
         5. Fraud Detection
         6. Query Detection
 
-## Graph Data vs Other Data Formats
+## B] Graph Data vs Other Data Formats
 
 #### Difference 1 : Size and Shape </br>
 - We can configure all data for same size in other data formats such as Images, Videos, Text by Resizing, Cropping & Padding. **Such Operations not defines in Graph Data because of it's complex structure.**
@@ -55,7 +55,7 @@ different types of applications of GNNs,
 - Graphs are dynamic strctures. they can't simply represent as X, Y coordinates. You can't really say 2 nodes are closed to each other if they locate nearby. It rely on both node attributes & edge attributes. 
 
 
-## Idealogy of GNNs
+## C] Idealogy of GNNs
 - Learning a neural network by suitable representation of graph data a.k.a **Representation Learning**
 - The main objective of GNN is to find **Node/Graph Embedding** using data stores in the graph such as Node features, Edge features.
 - Intuition -> **# Representation Learning === Extract Node/Graph Embedding**
