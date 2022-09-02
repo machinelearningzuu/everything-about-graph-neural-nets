@@ -16,6 +16,7 @@ This repository contains a collection of resources about Graph Neural Networks (
 
 
 Also we talk about different types of GNNs,
+
         1. Graph Convolutional Networks (GCNs)
         2. Graph Attention Networks (GATs)
         3. GraphSAGE
@@ -27,8 +28,9 @@ Also we talk about different types of GNNs,
         9. Graph Autoencoders (GAEs)v
         10. Graph Convolutional Matrix Completion (GC-MC)
     
-    
+
 different types of applications of GNNs,
+
         1. Recommendation Systems
         2. Molecular Property Prediction
         3. Drug Discovery
