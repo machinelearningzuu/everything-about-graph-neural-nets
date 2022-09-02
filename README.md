@@ -50,3 +50,12 @@ different types of applications of GNNs,
 - This doesn't work on other data types. ex: if you flip an image, it's not same as the original one, it's different.
 - **But if you flip a graph only thing change is order of the nodes. In this case the algorithms suppose to handle graph data should be permutation invariant**
 - This is the reason why you can't use Adjacency Matrix as the input data for GNNs, because it's sensitive to node ordering. which means **A GRAPH WITH DIFFERENT 2 NODE ORDEING SETTINGS RESULTS IN 2 DIFFERENT ADJACENCY METRICES.** So Adjancent Matrix is not Permutaion Invariant
+
+#### Difference 3 : Grid Structure </br>
+- Graphs are dynamic strctures. they can't simply represent as X, Y coordinates. You can't really say 2 nodes are closed to each other if they locate nearby. It rely on both node attributes & edge attributes. 
+
+
+## Idealogy of GNNs
+- Learning a neural network by suitable representation of graph data a.k.a **Representation Learning**
+- The main objective of GNN is to find **Node/Graph Embedding** using data stores in the graph such as Node features, Edge features.
+- Intuition -> **# Representation Learning === Extract Node/Graph Embedding**
