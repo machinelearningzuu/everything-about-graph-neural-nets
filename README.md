@@ -69,3 +69,5 @@ different types of applications of GNNs,
 - Message Passing can be more easily elaborate through **Computational Graph Representation**
 
 ![How Message Passinng Works ?](https://github.com/1zuu/everything-about-gnns/blob/main/git-vis/computaional-graph.png)
+
+##### Number of Layers of the GNN === Number of Neighbourhood-Hops we perform
