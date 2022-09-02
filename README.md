@@ -74,4 +74,6 @@ different types of applications of GNNs,
 
 
 ## D] Variants of GNN
-- Based on **How message passing updates & Aggregation Function works** we can derive different variants of GNN
+- Based on **How message passing updates & Aggregation Function works** we can derive different variants of GNN 
+
+![How Message Passinng Works ?](https://github.com/1zuu/everything-about-gnns/blob/main/git-vis/gnn-variants.png)
