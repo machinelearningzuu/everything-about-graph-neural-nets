@@ -37,3 +37,5 @@ different types of applications of GNNs,
         4. Social Network Analysis
         5. Fraud Detection
         6. Query Detection
+
+## Graph Data vs Other Data [](#graph-data-vs-other-data)
