@@ -59,3 +59,6 @@ different types of applications of GNNs,
 - Learning a neural network by suitable representation of graph data a.k.a **Representation Learning**
 - The main objective of GNN is to find **Node/Graph Embedding** using data stores in the graph such as Node features, Edge features.
 - Intuition -> **# Representation Learning === Extract Node/Graph Embedding**
+
+#### How Graph Neural Networks work ?
+- Core building blocks of GNN is **Message passing Layers**. They are responsible for combining Edge / Node Features into Node / graph Embeddings
