@@ -71,3 +71,7 @@ different types of applications of GNNs,
 ![How Message Passinng Works ?](https://github.com/1zuu/everything-about-gnns/blob/main/git-vis/computaional-graph.png)
 
 ##### Number of Layers of the GNN === Number of Neighbourhood-Hops we perform
+
+
+## D] Variants of GNN
+- Based on **How message passing updates & Aggregation Function works** we can derive different variants of GNN
