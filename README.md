@@ -38,4 +38,6 @@ different types of applications of GNNs,
         5. Fraud Detection
         6. Query Detection
 
-## Graph Data vs Other Data [](#graph-data-vs-other-data)
+## Graph Data vs Other Data Formats
+        Difference 1 : Size and Shape
+            - We can configure all data for same size in other data formats such as Images, Videos, Text by Resizing, Cropping & Padding. But, we can't do that in Graph Data.
