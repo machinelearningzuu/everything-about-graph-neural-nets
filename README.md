@@ -4,7 +4,7 @@
 
 This repository contains a collection of resources about Graph Neural Networks (GNNs). The resources are organized into the following categories:</br>
 
-####        1. Node Classification
+            1. Node Classification</br>
             2. Link Prediction</br>
             3. Graph Classification</br>
             4. Graph Generation</br>
