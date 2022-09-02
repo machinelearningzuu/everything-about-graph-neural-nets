@@ -42,3 +42,4 @@ different types of applications of GNNs,
 
 #### Difference 1 : Size and Shape </br>
 - We can configure all data for same size in other data formats such as Images, Videos, Text by Resizing, Cropping & Padding. **Such Operations not defines in Graph Data because of it's complex structure.**
+- If you have additional nodes & edges you **can't simply remove them.**
