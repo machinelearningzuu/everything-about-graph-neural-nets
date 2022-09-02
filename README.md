@@ -63,3 +63,5 @@ different types of applications of GNNs,
 #### How Graph Neural Networks work ?
 - Core building blocks of GNN is **Message passing Layers**. They are responsible for combining Edge / Node Features into Node / graph Embeddings. 
 - The way this happens can be exposed by **Graph Convolution.** The typical convolution concept represented by ConvNets extended here. Instead of Sliding kernal approach here it introduce the concept of **Node's Neighbourhood**. Using this approach **GNN can evaluate how neighbouring nodes keeps & share their information and this is called "Message Passing"**
+
+![How Message Passinng Works ?](https://github.com/1zuu/everything-about-gnns/blob/main/git-vis/message-passing.png)
