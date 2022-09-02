@@ -67,3 +67,5 @@ different types of applications of GNNs,
 ![How Message Passinng Works ?](https://github.com/1zuu/everything-about-gnns/blob/main/git-vis/message-passing.png)
 
 - Message Passing can be more easily elaborate through **Computational Graph Representation**
+
+![How Message Passinng Works ?](https://github.com/1zuu/everything-about-gnns/blob/main/git-vis/computaional-graph.png)
