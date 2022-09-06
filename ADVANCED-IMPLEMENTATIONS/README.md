@@ -9,3 +9,5 @@
 - This approach is not very practical for realistic use cases
 - Need labeled dataset unless we define number of clusters
 - The model is not very scalable. This would be a major problem for large graphs
+
+paper link: [https://dl.acm.org/doi/10.1145/3488560.3498533](https://dl.acm.org/doi/10.1145/3488560.3498533)
