@@ -4,3 +4,8 @@
 ### Traditional Methods VS. Deep Learninig-based Methods
 
 ![How Message Passinng Works ?](https://github.com/1zuu/Awesome-Deep-Community-Detection/blob/master/taxonomy.png)
+
+### **1.1 Graph Convolutional Clustering**
+- This approach is not very practical for realistic use cases
+- Need labeled dataset unless we define number of clusters
+- The model is not very scalable. This would be a major problem for large graphs
